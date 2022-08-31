@@ -612,10 +612,16 @@ footer {
          text-align: center;
          margin-top: 19px;
 
-         color: #1fbad6;
+         color: #999999;
          font-size: 11px;
          font-weight: 400;
          text-transform: uppercase;
+         a {
+            color: #1fbad6;
+            font-size: 11px;
+            font-weight: 300;
+            text-transform: uppercase;
+         }
       }
 
    }
@@ -633,6 +639,13 @@ footer {
    display: none;
 
 }
+
+.pad-left-10px {
+   padding-left: 10px;
+}
+
+
+
 
 
 
