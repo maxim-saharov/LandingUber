@@ -53,10 +53,14 @@ nav {
       //border-right: 2px dotted black;
       border-right: 2px dotted #495057;
 
-      padding-right: 28px;
+      padding-right: 49px;
 
       &:last-child {
          border-right: none;
+      }
+
+      &-ru {
+         padding-right: 28px;
       }
    }
 }
@@ -272,6 +276,7 @@ nav {
       font-size: 15px;
       font-weight: 300;
       line-height: 21px;
+      margin-top: 5px;
    }
 
 }
@@ -616,6 +621,7 @@ footer {
          font-size: 11px;
          font-weight: 400;
          text-transform: uppercase;
+
          a {
             color: #1fbad6;
             font-size: 11px;

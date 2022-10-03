@@ -1,8 +1,8 @@
 ## Landing Uber
 
-#### Link to where publishes this project: [https://maxim-saharov.com.ua/Uber](https://maxim-saharov.com.ua/Uber)
+#### Link where publishes this project: [https://maxim-saharov.com.ua/Uber](https://maxim-saharov.com.ua/Uber)
 
-Link to where publish other projects: [https://maxim-saharov.com.ua](https://maxim-saharov.com.ua)
+Link where publish other projects: [https://maxim-saharov.com.ua](https://maxim-saharov.com.ua)
 
 [//]: <> (This is a comment, it will not be included)
 
